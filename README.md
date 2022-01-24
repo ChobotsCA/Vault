@@ -21,5 +21,5 @@ Official release of the Chobots.ca vault, designed using Adobe Animate CC.
 
 ## Discord
 
-Join the Chobots.ca discord server: https://discord.gg/chobots
+Join the Chobots discord server: https://discord.gg/chobots
 
