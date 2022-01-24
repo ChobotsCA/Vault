@@ -10,7 +10,7 @@ Official release of the Chobots.ca vault, designed using Adobe Animate CC.
  - [@Ali](https://www.instagram.com/alychatart)
 
 ## Vault Developer
- - @Sheenieboy | Discord: Sheenieboy#5883 <span style="color: red;">(Original developer)<span style="color: red;">
+ - @Sheenieboy | Discord: Sheenieboy#5883 (Original developer)
  - [@Brock S.](http://www.rmtt.icu/)
 
 ## Screenshot
