@@ -13,18 +13,6 @@ Official release of the Chobots.ca vault, designed using Adobe Animate CC.
  - @Sheenieboy | Discord: Sheenieboy#5883 (Original developer)
  - [@Brock S.](http://www.rmtt.icu/)
 
-
-## Features
-
-- Discord Rich Presence support.
-- Embedded Pepper Flash Player. There is no need to manually install Flash.
-- Supports Windows & MacOS.
-- Custom Chobots loading screen.
-- Chobots desktop icon.
-- Application automatically adjusts to maximum size of the users screen.
-
-
-
 ## Screenshot
 
 ![Screenshot](https://i.imgur.com/7V9SAR0.png)
